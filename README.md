@@ -1,5 +1,5 @@
 # Wordpress Woocommerce addOns
-## Client requriement
+## Client requirement
 We are developing a woocommerce and need a little help here.  
 We need to disable the default modal of woocommerce where it says : Please select some product options before adding this product to your cart.
 
